@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yusufcagan@outlook.com.tr**
 
-- 📄 Know about my experiences [https://www.dropbox.com/home?preview=Yusuf+Cagan+Frontend+Developer+CV.pdf](https://www.dropbox.com/home?preview=Yusuf+Cagan+Frontend+Developer+CV.pdf)
+- 📄 Know about my experiences [link](https://www.dropbox.com/s/dlzhnfgqw4wf6ky/Yusuf%20Cagan%20Frontend%20Developer%20CV.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
