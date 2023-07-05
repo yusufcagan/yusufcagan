@@ -21,4 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufcagan&show_icons=true&locale=en&layout=compact" alt="yusufcagan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufcagan&" alt="yusufcagan" /></p>
+
+<!--.<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufcagan&" alt="yusufcagan" /></p>-->
